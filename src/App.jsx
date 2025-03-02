@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AppLayout from "./layouts/App_Layout";
-import LandingPage from "./pages/Landing";
+import LandingPage from "./pages/landing";
 import Dashboard from "./pages/dashboard";
 import Auth from "./pages/auth";
 import Link from "./pages/link";
